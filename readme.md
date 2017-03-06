@@ -1,5 +1,6 @@
 # Cooking Recipes
 
+- [Rice-A-Roni](rice-a-roni/index.md)
 - [Chili](chili/index.md)
 
 ## License (CC BY-SA 4.0)
