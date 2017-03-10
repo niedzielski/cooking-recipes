@@ -5,7 +5,7 @@
 - 3 cups mini spaghetti (or broken spaghetti)
 - 12 heaping tbsp of Premium Better Than Bouillon Seasoned Vegetable Base
 - ¾ stick butter
-- 1 onion diced
+- 1 sweet yellow onion diced
 - 3 heads of brocoli chopped
 - 5 carrots finely diced
 - 1 can of whole baby corn diced
