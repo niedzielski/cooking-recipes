@@ -6,7 +6,7 @@
 - 8 oz (full jar) Premium Better Than Bouillon Seasoned Vegetable Base
 - 1 stick butter
 - 1 sweet yellow onion diced
-- 3 heads of brocoli chopped
+- 3 heads of broccoli chopped
 - 8 carrots finely diced
 - 1 can of whole baby corn finely diced
 - 9 ½ cups water
