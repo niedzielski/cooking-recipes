@@ -50,7 +50,6 @@ Note: ignore the extra 2 cans of corn, extra can of green beans, and extra 3 bag
 
    <a href=browned.jpg><img src=browned.jpg width=400
      alt='After browning right before bouillon'></a>
-
    <a href=browned-onion.jpg><img src=browned-onion.jpg width=400
      alt='Onions may be dark or light'></a>
 
@@ -58,7 +57,6 @@ Note: ignore the extra 2 cans of corn, extra can of green beans, and extra 3 bag
 
    <a href=bouillon-dissolved.jpg><img src=bouillon-dissolved.jpg width=400
      alt='Bouillon dissolved'></a>
-
    <a href=after-water.jpg><img src=after-water.jpg width=400
      alt='After adding water'></a>
 
