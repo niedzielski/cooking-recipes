@@ -2,64 +2,76 @@
 
 ## Ingredients
 - 2 ⅔ cups Mahatma jasmine enriched Thai fragrant long grain rice
-- 4 cups mini spaghetti (or broken spaghetti)
+- 21 oz or 4 cups mini spaghetti (or broken spaghetti)
 - 8 oz (full jar) Premium Better Than Bouillon Seasoned Vegetable Base
-- 1 stick butter
-- 1 sweet yellow onion diced
-- 3 heads of broccoli chopped
-- 8 carrots finely diced
-- 1 can of whole baby corn finely diced
+- ~2 tablespoons extra virgin olive oil
+- ~2 tablespoons pepper
+- ~2 tablespoons garlic salt
+- ~2 tablespoons cornstarch
+- 1 whole stick butter
+- 1 extra large sweet yellow onion diced
+- 1 can of baby corn diced
+- 1 can green beans diced
+- 2 extra firm tofu bricks
 - 9 ½ cups water
-- (Optional) tofu
 
 <a href=ingredients.jpg><img src=ingredients.jpg width=400 alt=Ingredients></a>
 
+Note: ignore the extra 2 cans of corn, extra can of green beans, and extra 3 bags of mini spaghetti in the above photo
+
 ## Directions
 
-0. Brown the rice, spaghetti, and onion in a frying pan with the butter,
-   stirring every 5 minutes. Keep the pan lidded for faster results
+0. Press each tofu brick for a couple hours refrigerated
+
+0. Brown the rice, spaghetti, and onion in a covered frying pan with the butter,
+   stirring every 5-7 minutes
 
    <a href=buttered-pan.jpg><img src=buttered-pan.jpg width=400
      alt='Buttered but not brown (pan)'></a>
    <a href=buttered-detail.jpg><img src=buttered-detail.jpg width=400
      alt='Buttered but not brown (detail)'></a>
 
-0. Skin, dice, and boil the carrots in a separate pot. Chop and boil the
-   broccoli as well. Finally, dice the corn and (optionally) tofu. Once
-   complete, all may sit while the rice and spaghetti browns
+0. Preheat the oven to 400 °F. Pour the olive oil in a bowl. Dice the tofu and add it to bowl. Sprinkle tofu with pepper, garlic salt, and corn starch. Stir very gently
 
-   <a href=broccoli-and-carrots-diced.jpg><img src=broccoli-and-carrots-diced.jpg
-     width=400 alt='Broccoli and carrots diced'></a>
-   <a href=corn-diced.jpg><img src=corn-diced.jpg width=400 alt='Baby corn diced'></a>
-   <a href=tofu-diced.jpg><img src=tofu-diced.jpg width=400 alt='Tofu diced'></a>
+   <a href=tofu-battered.jpg><img src=tofu-battered.jpg width=400
+     alt='Battered tofu'></a>
+
+0. Pan the tofu and bake for 17 minutes
+
+   <a href=tofu-panned.jpg><img src=tofu-panned.jpg width=400
+     alt='Panned tofu'></a>
+
+0. Flip each tofu and bake for another 17 minutes
+
+   <a href=tofu-baked.jpg><img src=tofu-baked.jpg width=400
+     alt='Baked tofu'></a>
 
 0. After browning for ~45-60 min, the rice and spaghetti should be dark
 
    <a href=browned.jpg><img src=browned.jpg width=400
      alt='After browning right before bouillon'></a>
 
-0. Dissolve bouillon in 1 ½ cup water and mix in
+   <a href=browned-onion.jpg><img src=browned-onion.jpg width=400
+     alt='Onions may be dark or light'></a>
+
+0. Dissolve bouillon into 9 ½ cup water and mix in
 
    <a href=bouillon-dissolved.jpg><img src=bouillon-dissolved.jpg width=400
      alt='Bouillon dissolved'></a>
 
-0. Boil with the lid off and stir regularly until the water has evaporated
-
-   <a href=bouillon-boiled.jpg><img src=bouillon-boiled.jpg width=400
-     alt='After boiling the water off'></a>
-
-0. Add another 8 cups water and boil with the lid off
-
    <a href=after-water.jpg><img src=after-water.jpg width=400
      alt='After adding water'></a>
 
-0. Stir regularly until the water disappears
+0. Boil lidless and stir regularly until the water has evaporated
 
    <a href=boiled.jpg><img src=boiled.jpg width=400
      alt='After boiling the water off'></a>
 
 0. Lower the temperature and cover for 40 minutes
-0. Turn off the heat and strain and mix vegetables in
 
-   <a href=cooked.jpg><img src=cooked.jpg width=400 alt='Rice-a-roni (cooked)'></a>
-   <a href=bowl.jpg><img src=bowl.jpg width=400 alt='Rice-a-roni (mixed)'></a>
+0. Turn off the heat and strain and mix vegetables and tofu in
+
+   <a href=cooked.jpg><img src=cooked.jpg width=400
+     alt='Rice-a-roni (cooked)'></a>
+
+Tastiest the next day cold with bread and cheese.
