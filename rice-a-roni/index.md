@@ -5,13 +5,13 @@
 - 21 oz or 4 cups mini spaghetti (or broken spaghetti)
 - 8 oz (full jar) Premium Better Than Bouillon Seasoned Vegetable Base
 - ~2 tablespoons extra virgin olive oil
-- ~2 tablespoons pepper
-- ~2 tablespoons garlic salt
-- ~2 tablespoons cornstarch
-- 1 whole stick butter
-- 1 extra large sweet yellow onion diced
-- 1 can of baby corn diced
-- 1 can green beans diced
+- ~1 tablespoons pepper
+- ~1 tablespoons garlic salt
+- ~1.5 tablespoons cornstarch
+- 1 whole stick unsalted butter
+- 3 large sweet yellow onions diced
+- 3 can of baby corn diced
+- 2 can unsalted green beans diced
 - 2 extra firm tofu bricks
 - 9 ½ cups water
 
@@ -23,8 +23,7 @@ Note: ignore the extra 2 cans of corn, extra can of green beans, and extra 3 bag
 
 0. Press each tofu brick for a couple hours refrigerated
 
-0. Brown the rice, spaghetti, and onion in a covered frying pan with the butter,
-   stirring every 5-7 minutes
+0. Brown the rice and spaghetti in a covered frying pan with the butter, stirring every 5-7 minutes
 
    <a href=buttered-pan.jpg><img src=buttered-pan.jpg width=400
      alt='Buttered but not brown (pan)'></a>
@@ -46,12 +45,10 @@ Note: ignore the extra 2 cans of corn, extra can of green beans, and extra 3 bag
    <a href=tofu-baked.jpg><img src=tofu-baked.jpg width=400
      alt='Baked tofu'></a>
 
-0. After browning for ~45-60 min, the rice and spaghetti should be dark
+0. After ~30 minutes, add onions. After browning for ~20 minutes, the rice and spaghetti should be dark
 
    <a href=browned.jpg><img src=browned.jpg width=400
      alt='After browning right before bouillon'></a>
-   <a href=browned-onion.jpg><img src=browned-onion.jpg width=400
-     alt='Onions may be dark or light'></a>
 
 0. Dissolve bouillon into 9 ½ cup water and mix in
 
